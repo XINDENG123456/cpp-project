@@ -1,0 +1,2 @@
+G:\整活\chicken\chicken_test\Debug\chicken_test.exe
+D:\编程\chicken_test\Debug\chicken_test.exe

@@ -1,0 +1,4 @@
+﻿  chicken_test.cpp
+D:\编程\chicken_test\chicken_test.cpp(12,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\编程\chicken_test\chicken_test.cpp(12,20): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  chicken_test.vcxproj -> D:\编程\chicken_test\x64\Debug\chicken_test.exe
